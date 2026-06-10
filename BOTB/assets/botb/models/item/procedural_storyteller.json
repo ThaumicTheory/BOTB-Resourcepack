@@ -1,0 +1,7 @@
+{
+  "parent": "botb:item/storyteller_token",
+  "textures": {
+    "layer3": "botb:item/procedural/duo1",
+    "layer4": "botb:item/procedural/duo2"
+  }
+}

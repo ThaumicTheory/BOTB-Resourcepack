@@ -1,0 +1,43 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "reminder",
+        "model": {
+          "type": "minecraft:model",
+          "model": "botb:item/reminder_token",
+          "tints": [
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 0,
+              "default": [1,1,1]
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 1,
+              "default": [1,1,1]
+            }
+          ]
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "botb:item/character_token",
+    "tints": [
+      {
+        "type": "minecraft:custom_model_data",
+        "index": 1,
+        "default": [1,1,1]
+      },
+      {
+        "type": "minecraft:custom_model_data",
+        "index": 0,
+        "default": [1,1,1]
+      }
+    ]
+    }
+  }
+}

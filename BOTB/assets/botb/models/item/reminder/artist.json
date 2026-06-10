@@ -1,0 +1,7 @@
+{
+  "parent": "botb:item/reminder_token",
+  "textures": {
+    "layer1": "botb:item/artist",
+    "layer2": "botb:item/extra/artist"
+  }
+}

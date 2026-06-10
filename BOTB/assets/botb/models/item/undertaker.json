@@ -1,0 +1,7 @@
+{
+  "parent": "botb:item/character_token",
+  "textures": {
+    "layer2": "botb:item/undertaker",
+        "layer3": "botb:item/extra/undertaker"
+  }
+}

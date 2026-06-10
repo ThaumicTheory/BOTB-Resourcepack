@@ -1,0 +1,4 @@
+{
+    condition: "!OldUndertaker",
+    fallback: "assets/botb/textures/item/legacy/undertaker.png"
+}

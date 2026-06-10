@@ -1,0 +1,8 @@
+{
+  "parent": "botb:item/reminder_token",
+  "textures": {
+    "layer1": "botb:item/procedural/trio1",
+    "layer2": "botb:item/procedural/trio2",
+    "layer3": "botb:item/procedural/trio3"
+  }
+}

@@ -1,0 +1,12 @@
+{
+    id: "BOTB",
+    version: 14,
+    capabilities: ["FileFilter", "DirFilter"],
+    conf: {
+        ArachnophobiaMode: false,
+        OldEmpath: false,
+        OldUndertaker: false,
+        UseNormalTokenForTravellers: false,
+        UseTargetProceduralArt: false
+    }
+}

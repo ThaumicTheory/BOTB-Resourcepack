@@ -1,0 +1,6 @@
+{
+  "parent": "botb:item/character_token",
+  "textures": {
+    "layer2": "botb:item/atheist"
+  }
+}

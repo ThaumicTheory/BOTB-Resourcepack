@@ -1,0 +1,4 @@
+{
+    condition: "!OldEmpath",
+    fallback: "assets/botb/textures/item/legacy/empath.png"
+}

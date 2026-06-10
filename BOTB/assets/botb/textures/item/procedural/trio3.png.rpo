@@ -1,0 +1,4 @@
+{
+    condition: "!UseTargetProceduralArt",
+    fallback: "assets/botb/textures/item/procedural/target/trio3.png"
+}

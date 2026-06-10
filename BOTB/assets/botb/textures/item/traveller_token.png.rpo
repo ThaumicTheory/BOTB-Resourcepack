@@ -1,0 +1,4 @@
+{
+    condition: "!UseNormalTokenForTravellers",
+    fallback: "assets/botb/textures/item/token.png"
+}
