@@ -7,7 +7,7 @@
         "when": "reminder",
         "model": {
           "type": "minecraft:model",
-          "model": "botb:item/reminder/deus_ex_fiasco",
+          "model": "botb:item/reminder/stormcatcher",
           "tints": [
             {
               "type": "minecraft:custom_model_data",
@@ -25,7 +25,7 @@
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "botb:item/deus_ex_fiasco",
+      "model": "botb:item/stormcatcher",
       "tints": [
       {
         "type": "minecraft:custom_model_data",

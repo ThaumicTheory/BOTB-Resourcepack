@@ -1,6 +1,6 @@
 {
   "parent": "botb:item/character_token",
   "textures": {
-    "layer2": "botb:item/devils_advocate"
+    "layer2": "botb:item/bigwig"
   }
 }

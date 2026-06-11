@@ -1,6 +1,6 @@
 {
   "parent": "botb:item/reminder_token",
   "textures": {
-    "layer1": "botb:item/hells_librarian"
+    "layer1": "botb:item/deusexfiasco"
   }
 }

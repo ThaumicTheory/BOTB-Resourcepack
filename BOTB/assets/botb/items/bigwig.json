@@ -7,7 +7,7 @@
         "when": "reminder",
         "model": {
           "type": "minecraft:model",
-          "model": "botb:item/reminder/spirit_of_ivory",
+          "model": "botb:item/reminder/bigwig",
           "tints": [
             {
               "type": "minecraft:custom_model_data",
@@ -25,7 +25,7 @@
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "botb:item/spirit_of_ivory",
+      "model": "botb:item/bigwig",
       "tints": [
       {
         "type": "minecraft:custom_model_data",

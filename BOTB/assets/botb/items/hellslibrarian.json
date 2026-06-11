@@ -7,7 +7,7 @@
         "when": "reminder",
         "model": {
           "type": "minecraft:model",
-          "model": "botb:item/reminder/big_wig",
+          "model": "botb:item/reminder/hellslibrarian",
           "tints": [
             {
               "type": "minecraft:custom_model_data",
@@ -25,7 +25,7 @@
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "botb:item/big_wig",
+      "model": "botb:item/hellslibrarian",
       "tints": [
       {
         "type": "minecraft:custom_model_data",
