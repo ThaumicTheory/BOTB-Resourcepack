@@ -7,7 +7,7 @@
         "when": "reminder",
         "model": {
           "type": "minecraft:model",
-          "model": "botb:item/reminder/fortune_teller",
+          "model": "botb:item/reminder/scarletwoman",
           "tints": [
             {
               "type": "minecraft:custom_model_data",
@@ -25,7 +25,7 @@
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "botb:item/fortune_teller",
+      "model": "botb:item/scarletwoman",
       "tints": [
       {
         "type": "minecraft:custom_model_data",

@@ -1,6 +1,6 @@
 {
   "parent": "botb:item/character_token",
   "textures": {
-    "layer2": "botb:item/fortune_teller"
+    "layer2": "botb:item/spiritofivory"
   }
 }

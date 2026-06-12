@@ -1,6 +1,6 @@
 {
   "parent": "botb:item/character_token",
   "textures": {
-    "layer2": "botb:item/spirit_of_ivory"
+    "layer2": "botb:item/deusexfiasco"
   }
 }
