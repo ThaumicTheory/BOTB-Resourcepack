@@ -1,6 +1,48 @@
 {
-  "parent": "botb:item/character_token",
-  "textures": {
-    "layer2": "botb:item/tealady"
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "reminder",
+        "model": {
+          "type": "minecraft:model",
+          "model": "botb:item/reminder/tealady",
+          "tints": [
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 0,
+              "default": [1,1,1]
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 1,
+              "default": [1,1,1]
+            }
+          ]
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "botb:item/tealady",
+      "tints": [
+      {
+        "type": "minecraft:custom_model_data",
+        "index": 1,
+        "default": [1,1,1]
+      },
+      {
+        "type": "minecraft:custom_model_data",
+        "index": 0,
+        "default": [1,1,1]
+      },
+      {
+        "type": "minecraft:custom_model_data",
+        "index": 2,
+        "default": [1,1,1]
+      }
+    ]
+    }
   }
 }
