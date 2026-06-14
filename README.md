@@ -10,7 +10,7 @@ Amnesiac, Angel, Artist, Assassin, Atheist, Baron, Chef, Clockmaker, Courtier, D
 
 Darien:
 
-Cerenovus, Chambermaid, Fang Gu, Flowergirl, Juggler, Mathematician, Mutant, No Dashii, Oracle, Philosopher, Pit-Hag, Savant, Seamstress, Snake Charmer, Town Crier, Vigormortis, Vortox, Witch
+Cerenovus, Chambermaid, Evil Twin, Fang Gu, Flowergirl, Juggler, Mathematician, Mutant, No Dashii, Oracle, Philosopher, Pit-Hag, Savant, Seamstress, Snake Charmer, Town Crier, Vigormortis, Vortox, Witch
 
 Kam:
 
