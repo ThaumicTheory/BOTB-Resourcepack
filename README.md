@@ -10,15 +10,15 @@ Amnesiac, Angel, Artist, Assassin, Atheist, Baron, Chef, Clockmaker, Courtier, D
 
 Darien:
 
-Cerenovus, Chambermaid, Fang Gu, Flowergirl, Mathematician, Mutant, No Dashii, Pit-Hag, Snake Charmer, Town Crier, Vigormortis, Vortox, Witch
+Cerenovus, Chambermaid, Fang Gu, Flowergirl, Mathematician, Mutant, No Dashii, Philosopher, Pit-Hag, Snake Charmer, Town Crier, Vigormortis, Vortox, Witch
+
+Kam:
+
+Exorcist, Innkeeper, Minstrel, Moonchild, Pacifist, Professor, Sailor, Sweetheart, Tea Lady
 
 Sarah:
 
 Butler, Fortune Teller, Imp, Investigator, Poisoner, Ravenkeeper, Saint, Undertaker, Undertaker (legacy)
-
-Kam:
-
-Innkeeper, Minstrel, Professor, Sailor, Sweetheart, Tea Lady,
 
 ## Ui and Token Art
 
