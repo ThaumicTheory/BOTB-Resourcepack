@@ -48,9 +48,9 @@
         "default": [1,1,1]
       },
       {
-        "type": "minecraft:custom_model_data",
-        "index": 3,
-        "default": [1,1,1]
+          "type": "minecraft:custom_model_data",
+          "index": 3,
+          "default": [1,1,1]
       }
     ]
     }
