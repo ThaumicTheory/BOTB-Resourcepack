@@ -3,7 +3,7 @@
     "supported_formats": [46, 64],
     "pack_format": 64,
     "min_format": 46,
-    "max_format": [84, 0],
+    "max_format": [88, 0],
     "description": "IGSQ BOTB character and tokens"
   }
 }
