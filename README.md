@@ -10,7 +10,7 @@ Amnesiac, Angel, Artist, Assassin, Atheist, Baron, Chef, Clockmaker, Courtier, D
 
 Darien:
 
-Cerenovus, Chambermaid, Evil Twin, Fang Gu, Flowergirl, Juggler, Mathematician, Mutant, No Dashii, Oracle, Philosopher, Pit-Hag, Savant, Seamstress, Snake Charmer, Town Crier, Vigormortis, Vortox, Witch
+Beggar, Cerenovus, Chambermaid, Evil Twin, Fang Gu, Flowergirl, Juggler, Kazali, Klutz, Lleech, Mathematician, Mutant, No Dashii, Oracle, Philosopher, Pit-Hag, Savant, Scapegoat, Seamstress, Shabaloth, Snake Charmer, Thief, Town Crier, Vigormortis, Vortox, Witch
 
 Kam:
 
@@ -29,6 +29,10 @@ Standard, Reminder, tooltips
 Sarah:
 
 Traveller
+
+Darien:
+
+Tor (Player received broken variant)
 
 ## Placeholders
 Murray:
