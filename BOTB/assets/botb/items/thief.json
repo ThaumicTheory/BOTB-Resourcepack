@@ -18,6 +18,11 @@
               "type": "minecraft:custom_model_data",
               "index": 1,
               "default": [1,1,1]
+            },
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 2,
+              "default": [1,1,1]
             }
           ]
         }
@@ -45,6 +50,11 @@
       {
         "type": "minecraft:custom_model_data",
         "index": 3,
+        "default": [1,1,1]
+      },
+      {
+        "type": "minecraft:custom_model_data",
+        "index": 4,
         "default": [1,1,1]
       }
     ]
