@@ -1,6 +1,7 @@
 {
   "parent": "botb:item/reminder_token",
   "textures": {
-    "layer1": "botb:item/beggar"
+    "layer1": "botb:item/beggar",
+    "layer2": "botb:item/extra/beggar"
   }
 }

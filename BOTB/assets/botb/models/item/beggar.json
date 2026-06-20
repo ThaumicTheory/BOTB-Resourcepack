@@ -1,6 +1,7 @@
 {
   "parent": "botb:item/traveller_token",
   "textures": {
-    "layer3": "botb:item/beggar"
+    "layer3": "botb:item/beggar",
+    "layer4": "botb:item/extra/beggar"
   }
 }
