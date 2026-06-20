@@ -7,7 +7,7 @@
         "when": "reminder",
         "model": {
           "type": "minecraft:model",
-          "model": "botb:item/reminder/oracle",
+          "model": "botb:item/reminder/klutz",
           "tints": [
             {
               "type": "minecraft:custom_model_data",
@@ -18,11 +18,6 @@
               "type": "minecraft:custom_model_data",
               "index": 1,
               "default": [1,1,1]
-            },
-            {
-              "type": "minecraft:custom_model_data",
-              "index": 2,
-              "default": [1,1,1]
             }
           ]
         }
@@ -30,7 +25,7 @@
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "botb:item/oracle",
+      "model": "botb:item/klutz",
       "tints": [
       {
         "type": "minecraft:custom_model_data",
@@ -46,11 +41,6 @@
         "type": "minecraft:custom_model_data",
         "index": 2,
         "default": [1,1,1]
-      },
-      {
-          "type": "minecraft:custom_model_data",
-          "index": 3,
-          "default": [1,1,1]
       }
     ]
     }
