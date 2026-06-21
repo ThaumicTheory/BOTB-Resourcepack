@@ -1,6 +1,7 @@
 {
   "parent": "botb:item/reminder_token",
   "textures": {
-    "layer1": "botb:item/bureaucrat"
+    "layer1": "botb:item/bureaucrat",
+    "layer2": "botb:item/extra/bureaucrat"
   }
 }

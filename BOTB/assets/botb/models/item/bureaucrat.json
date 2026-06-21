@@ -1,6 +1,7 @@
 {
   "parent": "botb:item/traveller_token",
   "textures": {
-    "layer3": "botb:item/bureaucrat"
+    "layer3": "botb:item/bureaucrat",
+    "layer4": "botb:item/extra/bureaucrat"
   }
 }

@@ -1,6 +1,7 @@
 {
   "parent": "botb:item/traveller_token",
   "textures": {
-    "layer3": "botb:item/scapegoat"
+    "layer3": "botb:item/scapegoat",
+    "layer4": "botb:item/extra/scapegoat"
   }
 }
