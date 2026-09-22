@@ -1,0 +1,7 @@
+{
+  "parent": "botb:item/traveller_token",
+  "textures": {
+    "layer3": "botb:item/bonecollector",
+    "layer4": "botb:item/extra/bonecollector"
+  }
+}
