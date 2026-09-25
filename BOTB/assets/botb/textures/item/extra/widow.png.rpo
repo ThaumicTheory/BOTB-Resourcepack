@@ -1,0 +1,4 @@
+{
+    condition: "!ArachnophobiaMode",
+    fallback: "assets/botb/textures/item/extra/arachnophobia/widow.png"
+}
