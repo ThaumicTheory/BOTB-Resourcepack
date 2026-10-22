@@ -22,7 +22,7 @@ Butler, Fortune Teller, Imp, Investigator, Poisoner, Ravenkeeper, Saint, Underta
 
 Elias:
 
-Bone Collector, Poppy Grower, Preacher, Widow, Zombuul
+Bone Collector, Poppy Grower, Preacher, Widow, Widow (Arachnaphobia), Zombuul
 
 ## Ui and Token Art
 
