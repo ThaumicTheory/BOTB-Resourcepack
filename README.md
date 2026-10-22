@@ -10,7 +10,7 @@ Acrobat, Alsaahir, Balloonist, Banshee, Beggar, Bounty Hunter, Bureacrat, Cannib
 
 Karma:
 
-Alchemist, Amnesiac, Angel, Artist, Assassin, Atheist, Baron, Chef, Clockmaker, Courtier, Devils Advocate, Djinn, Dreamer, Drunk, Empath, Empath (legacy), Fiddler, Fool, Gambler, Gangster, Goon, Gossip, Grandmother, Gunslinger, Librarian, Magician, Mayor, Mezepheles, Monk, Ogre, Po, Politician, Pukka, Recluse, Sage, Scarlet Woman, Slayer, Soldier, Spy, Storyteller, Toymaker, Virgin, Washerwoman, Wraith
+Alchemist, Amnesiac, Angel, Artist, Assassin, Atheist, Baron, Barista, Butcher, Chef, Clockmaker, Courtier, Devils Advocate, Djinn, Dreamer, Drunk, Empath, Empath (legacy), Fiddler, Fool, Gambler, Gangster, Goon, Gossip, Grandmother, Gunslinger, Librarian, Lunatic, Magician, Mayor, Mezepheles, Monk, Ogre, Po, Politician, Pukka, Recluse, Sage, Scarlet Woman, Slayer, Soldier, Spy, Storyteller, Toymaker, Virgin, Washerwoman, Wraith
 
 Kam:
 
