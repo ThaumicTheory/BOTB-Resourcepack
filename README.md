@@ -6,11 +6,11 @@ The Resourcepack used in the Blood on the Blocktower Minecraft server.
 ## Character Art
 Darien:
 
-Baloonist, Beggar, Bureacrat, Cannibal, Cerenovus, Chambermaid, Damsel, Evil Twin, Farmer,Fang Gu, Flowergirl, General, Golem, High Priestess, Huntsman, Juggler, Kazali, Klutz, Lleech, Mastermind, Mathematician, Mutant, Nightwatchman, Noble, No Dashii, Oracle, Philosopher, Pit-Hag, Pixie, Princess, Savant, Scapegoat, Seamstress, Shabaloth, Shugenja, Snake Charmer, Thief, Tinker, Town Crier, Vigormortis, Vortox, Witch
+Acrobat, Alsaahir, Balloonist, Banshee, Beggar, Bounty Hunter, Bureacrat, Cannibal, Cerenovus, Chambermaid, Choirboy, Damsel, Evil Twin, Fang Gu, Farmer, Fearmonger, Fisherman, Flowergirl, General, Goblin, Golem, Harpy, Hermit, High Priestess, Huntsman, Juggler, Kazali, Klutz, Knight, Legion, Leviathan, Lil'Monsta, Lleech, Lord of Typhon, Mastermind, Mathematician, Mutant, Nightwatchman, Noble, No Dashii, Oracle, Organ Grinder, Philosopher, Pit-Hag, Pixie, Princess, Puzzlemaster, Savant, Scapegoat, Seamstress, Shabaloth, Shugenja, Snake Charmer, Steward, Summoner, Thief, Tinker, Town Crier, Vigormortis, Village Idiot, Vortox, Witch, Wizard, Xaan, Yaggababble, Zealot
 
 Karma:
 
-Amnesiac, Angel, Artist, Assassin, Atheist, Baron, Chef, Clockmaker, Courtier, Devils Advocate, Djinn, Dreamer, Drunk, Empath, Empath (legacy), Fiddler, Fool, Gambler, Goon, Gossip, Grandmother, Librarian, Mayor, Monk, Ogre, Po, Pukka, Recluse, Sage, Scarlet Woman, Slayer, Soldier, Spy, Storyteller, Toymaker, Virgin, Washerwoman
+Alchemist, Amnesiac, Angel, Artist, Assassin, Atheist, Baron, Chef, Clockmaker, Courtier, Devils Advocate, Djinn, Dreamer, Drunk, Empath, Empath (legacy), Fiddler, Fool, Gambler, Gangster, Goon, Gossip, Grandmother, Gunslinger, Librarian, Magician, Mayor, Mezepheles, Monk, Ogre, Po, Politician, Pukka, Recluse, Sage, Scarlet Woman, Slayer, Soldier, Spy, Storyteller, Toymaker, Virgin, Washerwoman, Wraith
 
 Kam:
 
@@ -19,6 +19,10 @@ Exorcist, Godfather, Innkeeper, Lil' Monsta, Minstrel, Moonchild, Pacifist, Prof
 Sarah:
 
 Butler, Fortune Teller, Imp, Investigator, Poisoner, Ravenkeeper, Saint, Undertaker, Undertaker (legacy)
+
+Elias:
+
+Poppy Grower, Preacher, Widow, Zombuul
 
 ## Ui and Token Art
 
